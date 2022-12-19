@@ -10,3 +10,29 @@ function solution(angle: number) {
 }
 // 필터가 통과한 요소를 배열로나타내는걸 이용해 풀은 로직
 console.log(solution(90));
+
+//짝수더하기
+function solution2(n: number) {
+  var half = Math.floor(n / 2);
+  return half * (half + 1);
+}
+//1 부터 n까지합은 n(n+1)/2
+
+//letof
+function solution3(numbers: Array<number>) {
+  var answer = 0;
+  for (let i of numbers) {
+    answer += i;
+  }
+  return answer / numbers.length;
+}
+
+console.log(solution3([3, 4, 5]));
+
+//tilt(~)
+const strr = "hello world";
+if (~strr.indexOf("rl")) {
+  console.log("참");
+} else {
+  console.log("거짓");
+}
