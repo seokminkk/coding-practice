@@ -11,3 +11,4 @@
 230111/shift,unshift,Math.max를 잘이용하자<br>
 230117/문자열의인덱스를잘이용하자<br>
 230118/while문 fill<br>
+230119
