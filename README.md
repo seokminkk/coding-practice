@@ -3,6 +3,7 @@
 나중에 다시보면 좋을것<br>
 230111 <br>
 230118 합성수찾기 <br>
+230122 2차원으로만들기 soulution2<br>
 
 <br><br><br><br>
 
@@ -11,4 +12,5 @@
 230111/shift,unshift,Math.max를 잘이용하자<br>
 230117/문자열의인덱스를잘이용하자<br>
 230118/while문 fill<br>
-230121/New Set,
+230121/New Set,<br>
+230122/while문,splice자세히<br>
