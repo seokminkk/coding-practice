@@ -4,7 +4,7 @@
 230111 <br>
 230118 합성수찾기 <br>
 230122 2차원으로만들기 soulution2<br>
-
+230123 k의개수<br>
 <br><br><br><br>
 
 221219/filter를 이용한 분류, 짝수더하기,letof,tilt연산자<br>
@@ -14,3 +14,4 @@
 230118/while문 fill<br>
 230121/New Set,<br>
 230122/while문,splice자세히<br>
+230123/split 여집합이용한거<br>

@@ -30,5 +30,5 @@ function solution2(num_list: Array<number>, n: number) {
 
   return answer;
 }
-
+//splice 는 원본을 바꾸고  splice(0,n) 계속 0부터 n까지 빼게됨 그러므로 동작하게됨
 console.log(solution2([100, 95, 2, 4, 5, 6, 18, 33, 948, 66], 3));
