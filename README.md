@@ -5,6 +5,8 @@
 230118 합성수찾기 <br>
 230122 2차원으로만들기 soulution2<br>
 230123 k의개수<br>
+230125<br>
+
 <br><br><br><br>
 
 221219/filter를 이용한 분류, 짝수더하기,letof,tilt연산자<br>
@@ -15,4 +17,4 @@
 230121/New Set,<br>
 230122/while문,splice자세히<br>
 230123/split 여집합이용한거<br>
-230125/<br>
+230125/(s.indexOf(c) === s.lastIndexOf(c))가같으면 중복이아닌거다,공던지기 나머지활용<br>
