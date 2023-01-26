@@ -6,6 +6,7 @@
 230122 2차원으로만들기 soulution2<br>
 230123 k의개수<br>
 230125<br>
+230126<br>
 
 <br><br><br><br>
 
@@ -18,3 +19,4 @@
 230122/while문,splice자세히<br>
 230123/split 여집합이용한거<br>
 230125/(s.indexOf(c) === s.lastIndexOf(c))가같으면 중복이아닌거다,공던지기 나머지활용<br>
+230126/소인수분해while문 ,split과join <br>
