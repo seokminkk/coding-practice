@@ -21,3 +21,4 @@
 230125/(s.indexOf(c) === s.lastIndexOf(c))가같으면 중복이아닌거다,공던지기 나머지활용<br>
 230126/소인수분해while문 ,split과join <br>
 230130/substring나머지활용,재귀함수와 부동소수<br>
+230131/삼각형의조건 수학적지식<br>
